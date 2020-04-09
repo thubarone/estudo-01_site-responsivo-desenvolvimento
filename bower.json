@@ -1,0 +1,20 @@
+{
+  "name": "Estudo Site Responsivo",
+  "homepage": "https://github.com/thubarone/estudo-01_site-responsivo-desenvolvimento",
+  "authors": [
+    "Tubarone <tubarone@yahoo.com.br>"
+  ],
+  "description": "Estudo Site Responsivo",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
