@@ -1,0 +1,22 @@
+{
+  "name": "estudo-design-responsivo",
+  "version": "1.0.0",
+  "description": "Estudo Design Responsivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thubarone/estudo-01_site-responsivo-desenvolvimento.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thubarone/estudo-01_site-responsivo-desenvolvimento/issues"
+  },
+  "homepage": "https://github.com/thubarone/estudo-01_site-responsivo-desenvolvimento#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
